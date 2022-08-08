@@ -11,7 +11,7 @@ const collectionInfo = {
 
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
-    title: "{Rockstar Boxes}", // {name} will be replaced with collectionInfo.name
+    title: "Rockstar Parcels", // {name} will be replaced with collectionInfo.name
     underTitle: "What will you recieve? it's a mystery",
 }
 
