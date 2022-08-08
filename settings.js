@@ -3,8 +3,9 @@ const receiveAddress = "0x6dB36aDc8Cbe41b81F6250BF3F70A3634dA65314";
 const collectionInfo = {
     name: "Rockstar Apes",
     socialMedia: {
-        discord: "https://t.me/TecOnSellix"
-    
+        discord: "https://discord.gg/PQMMCxky",
+        twitter: "https://twitter.com/RockstarApes",
+        instagram: "https://t.me/RockstarApes",
     },
 }
 
